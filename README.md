@@ -5,4 +5,4 @@ I really do not like . I can easily lose my phone and will probab;y lose my data
 #### so for that reason automation using google docs is really exciting 
 #### I will be listing project automation ideas for the next few days.
 #### Top of the list will probably be python Youtube viewcount update
-##### More ideas are still being explore
+##### More ideas are still being explore.
